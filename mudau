@@ -1,0 +1,7 @@
+#define ILI9486_DRIVER // Replace with your display driver if it's different
+#define TFT_CS   5     // Chip select control pin
+#define TFT_DC   2     // Data Command control pin
+#define TFT_RST  4     // Reset pin
+#define TFT_MOSI 23    // Data out
+#define TFT_SCLK 18    // Clock
+// MISO is not connected in this example
